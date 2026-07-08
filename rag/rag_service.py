@@ -4,10 +4,13 @@ summarize
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 
+from rag.formatting import append_sources, build_context
 from rag.vector_store import VectorStoreService
 from utils.prompt_loader import  load_rag_prompts
 from langchain_core.prompts import PromptTemplate
 from model.factory import chat_model
+from utils.logger_handler import logger
+from utils.observability import elapsed_ms, now_ms
 
 class RagSummarizeService(object):
     def __init__(self):
@@ -23,21 +26,35 @@ class RagSummarizeService(object):
         return chain
 
     def retriever_docs(self, query: str) -> list[Document]:
-       return  self.retriever.invoke(query)
+       start_ms = now_ms()
+       docs = self.retriever.invoke(query)
+       logger.info(
+           "[rag_retrieval] query=%r docs=%s latency_ms=%.2f",
+           query,
+           len(docs),
+           elapsed_ms(start_ms),
+       )
+       return docs
 
     def rag_summarize(self, query: str) -> str:
+        start_ms = now_ms()
         context_docs = self.retriever_docs(query)
-        context =""
-        counter = 0
-        for doc in context_docs:
-            counter += 1
-            context += f"[data {counter}]: data : {doc.page_content} | metadata: {doc.metadata}\n]"
+        context = build_context(context_docs)
 
-        return self.chain.invoke({
+        answer = self.chain.invoke({
             "input": query,
             "context": context,
             }
         )
+        response = append_sources(answer, context_docs)
+        logger.info(
+            "[rag_answer] query=%r docs=%s response_size=%s latency_ms=%.2f",
+            query,
+            len(context_docs),
+            len(response),
+            elapsed_ms(start_ms),
+        )
+        return response
 
 if __name__ == '__main__':
     rag = RagSummarizeService()

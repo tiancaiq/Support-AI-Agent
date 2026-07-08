@@ -1,0 +1,15 @@
+.env
+.venv/
+.idea/
+.git/
+
+__pycache__/
+*.py[cod]
+
+logs/
+chroma_db/
+rag/chroma_db/
+agent/chroma_db/
+agent/tools/chroma_db/
+*.sqlite3
+md5.text

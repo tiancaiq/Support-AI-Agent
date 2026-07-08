@@ -3,6 +3,7 @@ import random
 
 from langchain_core.tools import  tool
 from rag.rag_service import RagSummarizeService
+from agent.tools.report_data import load_external_data, validate_month, validate_user_id
 from utils.config_handler import agent_config
 from utils.logger_handler import logger
 from utils.path_tool import get_abs_path
@@ -33,45 +34,19 @@ def get_current_month() -> str:
     return random.choice(month_arr)
 
 def generate_external_data():
-    """
-    {
-        "user_id" :{
-           "month" :
-           }
-    }
-
-    :return:
-    """
     if not external_data:
         external_data_path = get_abs_path(agent_config["external_data_path"])
 
         if not os.path.exists(external_data_path):
             raise FileNotFoundError(f"external_data_path:{external_data_path} not exist")
 
-        with open(external_data_path, "r", encoding = "utf-8") as f:
-            for line in f.readlines()[1:]:
-                arr: list[str] = line.strip().split(",")
-
-                user_id: str = arr[0].replace('"', "")
-                feature: str = arr[1].replace('"', "")
-                efficiency: str = arr[2].replace('"', "")
-                consumable: str = arr[3].replace('"', "")
-                comparison: str = arr[4].replace('"', "")
-                time: str = arr[5].replace('"', "")
-
-                if user_id not in external_data:
-                    external_data[user_id] = {}
-                external_data[user_id][time] = {
-                    "feature": feature,
-                    "efficiency": efficiency,
-                    "consumable": consumable,
-                    "comparison": comparison,
-
-                }
+        external_data.update(load_external_data(external_data_path))
 
 @tool(description="get external usage data; return an empty string if not found")
 def fetch_external_data(user_id: str, month: str) -> str:
     generate_external_data()
+    user_id = validate_user_id(user_id)
+    month = validate_month(month)
     try:
         return external_data[user_id][month]
     except KeyError:
