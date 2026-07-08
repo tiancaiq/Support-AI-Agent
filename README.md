@@ -48,8 +48,8 @@ flowchart LR
 
     prompts["Prompt Templates<br/>prompts/*.txt"] --> agent
     prompts --> ragService
-    observability["Observability Logs<br/>tool latency, retrieval count,<br/>response size"] <-- middleware
-    observability <-- ragService
+    middleware --> observability["Observability Logs<br/>tool latency, retrieval count,<br/>response size"]
+    ragService --> observability
 
     ragService --> citations["Grounded Answer<br/>with source citations"]
     records --> report["Personalized Usage Report"]
