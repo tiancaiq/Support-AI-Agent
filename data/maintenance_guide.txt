@@ -1,0 +1,135 @@
+# Robot Vacuum And Vacuum-Mop Maintenance Guide
+
+## Daily Maintenance
+1. Wipe the robot shell with a soft dry cloth after use.
+2. Remove hair and threads from the bumper gap after each run.
+3. Check drive wheels and caster wheel daily for hair, string, or grit.
+4. Avoid collisions with sharp furniture or metal stands.
+5. Wipe robot and dock charging contacts daily.
+6. Keep hands away from rotating brushes while the robot is running.
+7. Wipe cliff and edge sensors with a dry cloth.
+8. Disconnect power before cleaning the robot body.
+9. Clean dustbin latches so the bin seats correctly.
+10. Return the robot to the dock after each use.
+11. Check screws and visible fasteners weekly.
+12. Brush dust away from cooling vents weekly.
+13. Press the bumper weekly to confirm normal rebound.
+14. Wipe buttons and indicator lights weekly.
+15. Lubricate wheel axles monthly only if the manual allows it.
+16. Inspect removable batteries monthly for swelling or leakage.
+17. Clean obstacle cameras and sensors monthly.
+18. Do a full exterior dusting monthly.
+19. Stop the robot if new abnormal noise appears.
+20. Confirm every replacement part matches the model.
+
+## Vacuum System Maintenance
+21. Remove hair from the main brush after each run.
+22. Clean side brushes daily in pet homes.
+23. Clean the brush chamber weekly.
+24. Replace worn brush strips before cleaning performance drops.
+25. Clear air channels weekly.
+26. Check auto-empty channels daily for clogs.
+27. Wipe the dustbin interior after emptying it.
+28. Always install the filter before running the robot.
+29. If suction drops, inspect the dustbin, filter, brush, and air channel first.
+30. Clean brushless suction inlets weekly if the model has no main brush.
+31. Confirm auto-empty bags are seated and sealed.
+32. Clean carpet fibers from the brush after carpet runs.
+33. Inspect main-brush motor area monthly for heat or noise.
+34. Protect brush bearings from water and dust.
+35. Replace side brushes when bristles are short or bent.
+36. Clean dust sensors weekly.
+37. Clear the auto-empty station outlet weekly.
+38. Remove sand and grit after cleaning rough floors.
+39. Empty dustbin fully after each run in high-dust homes.
+40. Check suction-level switching monthly.
+
+## Mopping System Maintenance
+41. Wash mop pads after every mopping run.
+42. Dry mop pads in a ventilated area to prevent mildew.
+43. Clean mop brackets after each use.
+44. Use clean water in the tank and avoid debris or scale.
+45. Empty remaining water after mopping.
+46. Descale the water tank monthly if water is hard.
+47. Empty and rinse dirty-water tanks after every auto-wash cycle.
+48. Clean station washing brushes daily for auto-wash models.
+49. Lubricate mop-bracket shafts only if supported by the manual.
+50. Install only clean, soft mop pads.
+51. Wipe tank gaskets weekly and inspect for cracks.
+52. Clean water-level sensors weekly.
+53. Clear outlet tubes immediately if water output becomes abnormal.
+54. Check mop motors for heat or noise.
+55. Remove mop odor with mild detergent, rinse, and dry fully.
+56. Clean the robot's tank connector before installing the tank.
+57. Inspect mop-lift modules daily on supported models.
+58. Discard disposable mop pads after one use.
+59. Wipe the bottom mopping module weekly.
+60. Descale station pump lines monthly if scale appears.
+
+## Consumable Replacement
+61. Main brush: replace every 3-6 months; sooner for pets or heavy hair.
+62. Side brush: replace every 2-3 months or when deformed.
+63. HEPA filter: clean monthly and replace every 3-6 months.
+64. Dust bag: replace every 1-2 months; sooner for pet homes.
+65. Washable mop pad: replace every 1-3 months depending on stains and odor.
+66. Disposable mop pad: replace every run.
+67. Rubber brush: replace when strips crack, harden, or deform.
+68. Water-tank gasket: replace every 6-12 months or when leaking.
+69. Dirty-water filter: rinse weekly and replace every 6 months.
+70. Cleaning-station brush: replace when bristles deform or shed.
+71. Drive-wheel tread: replace when slipping continues after cleaning.
+72. Caster wheel: replace if it no longer spins smoothly.
+73. Battery: replace when runtime becomes much shorter or the battery swells.
+74. Dock dust bag seal: replace if dust leaks.
+75. Charging contacts: service or replace if oxidation cannot be cleaned.
+
+## Environment Care
+76. Keep the dock on a flat, dry, ventilated surface.
+77. Keep the dock area free of cables and clutter.
+78. Avoid direct sunlight on the robot and dock.
+79. Avoid high heat above 40 C and freezing temperatures below 0 C.
+80. Avoid corrosive liquids such as alcohol, bleach, disinfectant, or dish soap.
+81. Dry the robot immediately if it touches wet floors.
+82. Do not run the robot through standing water.
+83. Protect stairs with physical barriers if needed.
+84. Remove stones, bottle caps, cables, socks, and toys before scheduled cleaning.
+85. In pet homes, clean the brush and dustbin after every run.
+86. In humid weather, dry the robot and dock after cleaning.
+87. In dusty homes, clean filters and sensors more often.
+88. In homes with long hair, use anti-tangle brushes and clean brush ends often.
+89. For hardwood, use low water output and ventilate after mopping.
+90. For carpets, avoid wet mopping unless the model has reliable mop lift.
+
+## Long-Term Storage
+91. Charge the battery to about 50-70% before long storage.
+92. Store the robot in a cool, dry place.
+93. Recharge every 1-2 months during storage.
+94. Empty dustbin and water tanks before storage.
+95. Wash and fully dry mop pads before storage.
+96. Clean brushes, wheels, sensors, and charging contacts.
+97. Keep the dock unplugged if unused for a long time.
+98. Store consumables in sealed dry bags if possible.
+99. Check for battery swelling before reuse.
+100. Run a short test cycle after long storage.
+
+## Preventive Checks
+101. Run a no-load test monthly and listen for noise.
+102. Check that sensors are not scratched or fogged.
+103. Confirm maps and no-go zones after furniture changes.
+104. Review app consumable-life reminders monthly.
+105. Update firmware only when the robot is charged and online.
+106. Confirm scheduled tasks after firmware updates.
+107. Test auto-return after moving the dock.
+108. Test spot cleaning after remapping.
+109. Clean dock infrared and charging areas weekly.
+110. Replace damaged shells or cracked brackets before they affect sensors.
+111. Do not paste strong adhesive stickers on the robot shell.
+112. Carry the robot gently; do not drag or drop it.
+113. Clean pet accidents immediately and disinfect safely.
+114. Keep flammable items away while charging.
+115. If water enters the body, power off and contact service.
+116. If a burning smell appears, stop use immediately.
+117. If repeated alarms happen after cleaning, record the code and contact support.
+118. Use official accessories for parts that affect sealing, charging, or movement.
+119. Keep a small maintenance kit: soft cloth, brush, tweezers, scissors, and approved lubricant.
+120. Follow a simple routine: empty, wipe, untangle, dry, dock.

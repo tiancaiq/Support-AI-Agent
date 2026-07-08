@@ -1,0 +1,119 @@
+# Robot Vacuum And Vacuum-Mop Buying Guide
+
+## Core Buying Criteria
+1. Start with your home scenario: small apartment, pet home, large home, hardwood, carpet, or mixed floors.
+2. For basic homes, choose at least 3000 Pa suction; for carpet-heavy homes, choose 4000 Pa or higher.
+3. Laser navigation is usually more accurate in complex layouts; visual navigation can be cost-effective.
+4. 3D structured-light obstacle avoidance is stronger for small objects than basic infrared avoidance.
+5. Small homes under 80 square meters usually need at least 60 minutes of runtime.
+6. Large homes over 120 square meters should target 120+ minutes and resume-after-charge.
+7. Choose a clean-water tank of 300 ml or more for larger homes.
+8. Rotating mop pads usually clean stains better than passive mop pads.
+9. Mop lift is important for hardwood and carpet boundaries.
+10. Auto-empty is useful for busy users and pet homes.
+11. Dust bags of 2.5 L or larger reduce replacement frequency.
+12. Hot-air drying helps prevent mop odor and mildew.
+13. Leading brands often provide better quality control and after-sales service.
+14. Check local repair availability for smaller brands.
+15. Measure furniture clearance before buying; low beds may require a slim robot.
+
+## Navigation And Avoidance
+16. SLAM-based mapping improves path planning and room coverage.
+17. Multi-floor maps are important for duplex or multi-story homes.
+18. No-go zones and no-mop zones should be supported in the app.
+19. Map editing should allow room splitting, merging, and custom zones.
+20. Obstacle detection should identify cords, shoes, toys, and pet waste if possible.
+21. Carpet detection should boost suction and lift mop pads automatically.
+22. Cliff sensors are required near stairs.
+23. Edge sensors improve wall-following and corner cleaning.
+24. App map visualization helps users find missed areas.
+25. Firmware OTA support improves long-term feature and navigation updates.
+
+## Cleaning Hardware
+26. Anti-tangle brushes are important for long hair and pets.
+27. Rubber brushes are easier to clean than dense bristle brushes.
+28. Dual side brushes can improve corner pickup, but design quality matters.
+29. HEPA H13-level filtration is helpful for allergies.
+30. Dustbin capacity of 500 ml or more reduces emptying frequency.
+31. Pet homes may prefer 600 ml dustbins or auto-empty stations.
+32. Adjustable suction lets users balance noise and power.
+33. Brush chamber design should be easy to remove and clean.
+34. Water output should have at least three levels.
+35. Electric rotating mops are better for sticky stains.
+36. Vibrating mop systems can help with tile grout and light stains.
+37. Sealed water tanks reduce leak risk.
+38. Dirty-water tanks should be easy to remove and rinse.
+39. Floating brushes improve contact across uneven surfaces.
+40. Replaceable consumables should be affordable and easy to find.
+
+## Smart Features
+41. Basic app features should include scheduling, room cleaning, zones, no-go areas, and cleaning history.
+42. Voice control is useful for hands-free use.
+43. Multi-account sharing helps families manage the same robot.
+44. Remote start is useful while traveling.
+45. Cleaning logs should show area, duration, path, and status.
+46. Consumable-life reminders help maintenance.
+47. Error self-diagnosis reduces support friction.
+48. Custom cleaning order helps large homes.
+49. URL or cloud dependency should be considered if privacy matters.
+50. Look for stable app reviews, not just hardware specs.
+
+## Home Fit
+51. Hardwood: prioritize low water output, mop lift, soft pads, and no-mop zones.
+52. Tile: prioritize suction plus rotating or vibrating mop pads.
+53. Carpet: prioritize suction, carpet boost, anti-tangle brush, and mop lift.
+54. Pet homes: prioritize anti-tangle brush, large dustbin, auto-empty, and high-efficiency filter.
+55. Children: prioritize obstacle avoidance, no-go zones, and safety locks.
+56. Elderly users: prioritize simple app flow, physical buttons, and voice control.
+57. Small apartments: prioritize compact size, quiet operation, and simple scheduling.
+58. Large homes: prioritize runtime, big tanks, multi-map support, and resume cleaning.
+59. High-dust homes: prioritize sealed dustbin, strong filter, and easy filter replacement.
+60. Humid areas: prioritize mop drying, removable tanks, and easy cleaning station maintenance.
+
+## Reliability And Ownership Cost
+61. Check warranty length for the whole machine, motor, and battery.
+62. A 2-year whole-machine warranty is stronger than a 1-year warranty.
+63. Battery and motor warranty matter because repairs can be expensive.
+64. Check side brush, main brush, filter, mop pad, dust bag, and battery costs before buying.
+65. Confirm accessories are available locally.
+66. Avoid non-original parts for seals, brushes, charging contacts, and mop modules.
+67. Read long-term reviews about mapping, docking, battery, and service.
+68. Buy from official channels to avoid refurbished or unsupported units.
+69. Check serial number and manufacturing date when possible.
+70. Inspect package, dock, power cable, filters, mop pads, and spare parts at unboxing.
+
+## Practical Specs
+71. Working noise under 55 dB is better for bedrooms and home offices.
+72. Quiet mode usually lowers suction, so compare standard-mode noise too.
+73. Lithium batteries are preferable to older nickel-cadmium batteries.
+74. Battery capacity around 5200 mAh is useful for large homes.
+75. Fast charging under 2 hours is convenient for frequent use.
+76. Climbing ability around 2 cm is useful for thresholds.
+77. Rubber drive wheels improve grip on carpet and wet tile.
+78. IPX4 or better water resistance helps with damp floors, but the robot should never be soaked.
+79. Strong cooling design protects motor life.
+80. Charging dock should resist slipping and have protected contacts.
+
+## Buying Timing And Value
+81. Sales events can reduce price, but avoid choosing only by discount.
+82. Compare real replacement-part cost over two years.
+83. Premium stations are worth it if they save maintenance time you actually dislike.
+84. For tight budgets, prioritize navigation, suction, and filtration over luxury station features.
+85. For pet homes, auto-empty may be worth more than advanced mopping.
+86. For hardwood homes, mop control may be worth more than maximum suction.
+87. For large homes, runtime and resume cleaning matter more than peak suction alone.
+88. For rental homes, portability and simple setup are more valuable.
+89. For smart-home users, check compatibility with existing assistants.
+90. For privacy-sensitive users, check camera usage and cloud requirements.
+
+## Red Flags
+91. No clear warranty or local service.
+92. Consumables are expensive or unavailable.
+93. App reviews mention frequent disconnects.
+94. Mapping is random-only for a complex home.
+95. No no-go zones or map editing.
+96. Water output cannot be adjusted.
+97. Mop pads are hard to wash or replace.
+98. Dock requires too much manual cleaning for your lifestyle.
+99. Battery replacement is difficult or unsupported.
+100. Marketing emphasizes peak suction but ignores real cleaning tests, maintenance, and support.

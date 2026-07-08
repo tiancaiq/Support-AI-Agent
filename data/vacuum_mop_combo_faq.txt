@@ -1,0 +1,115 @@
+# Vacuum-Mop Combo Robot FAQ
+
+## Vacuum And Mop Workflow
+1. Vacuum only: turn off mopping in the app and keep suction mode enabled.
+2. Vacuum first, mop second: choose a vacuum-then-mop workflow and set suction, water output, and room order.
+3. Simultaneous vacuuming and mopping: use this for normal dust, but vacuum first for crumbs, hair, or heavy debris.
+4. Mop only: install the water tank and mop pad, clean the dustbin, and choose mop-only mode.
+5. Suction during mopping: some models reduce suction slightly; use high suction when stronger pickup is needed.
+6. Room-specific settings: set suction and water output separately for kitchens, bathrooms, carpets, tile, and hardwood.
+7. Dry and wet mopping: dry mop removes dust and hair; wet mop removes light stains.
+8. Auto-wash disabled: turn off mop washing if you only want vacuuming.
+9. Mop-lift behavior: supported models lift the mop when docking, crossing carpets, or finishing cleaning.
+10. Repeat cleaning: set 1-3 passes for sticky or high-traffic areas.
+
+## Water Tank And Mop System
+11. Tank leaks after filling: check the cap, gasket, outlet tube, and fill level.
+12. Too much or too little water: adjust water output in the app; use low for hardwood and medium/high for tile.
+13. Empty tank detection: supported models pause mopping or notify the app when water is low.
+14. Cleaning solution: dilute robot-safe cleaner according to product instructions; never add concentrated cleaner directly.
+15. Electric mop does not rotate: remove hair, check the mop mount, restart, and contact service if the motor still does not turn.
+16. Mop pad smells after washing: soak in warm water with mild detergent, rinse, dry fully, and replace if odor remains.
+17. Disposable mop installation: attach flat to the mop bracket, lock the edges, and discard after use.
+18. Washable mop frequency: wash after every mopping run.
+19. Streaky water marks: clean or replace hardened mop pads and lower water output.
+20. Edges are not mopped well: enable edge-mop enhancement if available or use spot mopping.
+21. Dirty-water tank full: empty and rinse the tank and filter immediately.
+22. Dock cannot wash mop: check clean-water level, pump intake, hoses, and station sensors.
+23. Loose mop bracket: inspect clips and press the bracket into place until it clicks.
+24. Repeated wiping in one area: check for a detected stain or sensor misread, then set a no-mop area if needed.
+25. Long-term tank storage: empty the tank, dry it, and store it with the seal protected.
+
+## Cleaning Optimization
+26. Greasy kitchen floor: vacuum first, add diluted robot-safe cleaner, and run multiple mop passes.
+27. Pet urine: absorb liquid manually first, then use pet-safe cleaner and spot mopping.
+28. Gum or glue: remove manually before using the robot.
+29. Carpet areas: create no-mop zones or enable mop lift.
+30. Large homes: use resume-after-refill if supported or divide the map into zones.
+31. Hardwood warping: stop wet mopping, dry the floor, ventilate, and use low-water or dry-mop mode later.
+32. Tile grout stains: use high-frequency vibration if supported and repeat mopping with tile-safe cleaner.
+33. Fine dust after mopping: clean filters and brush first, then vacuum before mopping.
+34. Outdoor balcony: avoid open outdoor use; use only enclosed, dry balconies.
+35. Children's room spills: use mild cleaner, spot mop, and follow with clean-water mopping.
+36. Carpet edge water: create a buffer zone around carpets and enable mop lift.
+37. Old concrete dust: vacuum twice with high suction before mopping.
+38. Mirror furniture collisions: add no-go or slow-down zones near reflective furniture.
+39. Robot pushes debris while mopping: clear suction inlet, increase suction, and manually remove large debris.
+40. Under-bed cleaning: clear cables and clutter, then increase suction and mop passes for that zone.
+
+## Hardware Alarms
+41. Mopping-system alarm: reseat the tank and mop, remove debris, and restart.
+42. Tank not detected: clean the tank sensor, reinstall firmly, and check the latch.
+43. Clicking from mop rotation: remove wrapped hair and small debris, then lubricate approved bearings lightly.
+44. Cleaning-station water-level alarm: refill clean water, empty dirty water, clean sensors, and restart.
+45. Robot stops while mopping: check battery, blocked mop module, and sensors.
+46. Mop bracket not installed: insert the bracket fully or replace broken clips.
+47. Clogged outlet tube: gently clear the tube with a toothpick or thin soft wire and rinse the tank.
+48. Robot shakes during mopping: flatten the mop pad, clean drive wheels, and check for standing water.
+49. Mop lift fails: enable the feature, clean the lift mechanism, and contact support if the motor is stuck.
+50. Cleaner concentration alarm: empty and rinse the tank, then refill with correctly diluted solution.
+51. Black scratches while mopping: check for grit trapped in the mop or a worn bracket.
+52. Mop module runs while charging: restart the robot and reset settings if the issue continues.
+53. Dirty-water filter clogged: rinse, dry, and reinstall the filter.
+54. Mop motor stuck and hot: power off immediately and contact service.
+55. Mopping turns off after threshold crossing: verify threshold height and enable resume mopping after obstacle crossing if supported.
+
+## Consumables
+56. Mop pad life: replace washable pads every 3-6 months, or every 1-2 months for heavy oil or pet homes.
+57. Tank gasket life: replace every 6-12 months or immediately if cracked or leaking.
+58. Cleaning brush in station: remove hair after each dirty-water dump and rinse weekly.
+59. Mop bearings: add 1-2 drops of approved lubricant every 3 months if the manual allows it.
+60. Mopping filters: do not mix vacuum filters and dirty-water filters.
+61. Sensor cleaning: use a dry lint-free cloth and avoid alcohol or wet wipes.
+62. Auto-empty plus mop-wash consumables: replace bags every 1-2 months, mop pads about every 3 months, and filters every 6 months.
+63. Broken bracket clip: replace the original bracket rather than gluing it.
+64. Station water pump: flush with clean water after long storage and descale every 3 months if water is hard.
+65. Disposable mops: do not wash and reuse them.
+
+## Scenario Tips
+66. Humid season: use dry-mop mode, reduce water output, and run a dehumidifier.
+67. Heated floors: use low water output and ventilate after mopping to avoid visible water marks.
+68. No balcony for drying pads: towel-dry and place in a ventilated indoor area or use cool air.
+69. Homes with infants: use clean water only and ensure the floor is fully dry before crawling.
+70. Multi-floor homes: create one map per floor and carry the robot manually.
+71. Laundry-area water: create a no-mop zone around washers or floor drains.
+72. Heavy pet shedding: vacuum first with high suction, then mop.
+73. Travel mode: schedule cleaning only if water, dustbin, dock, and consumables are ready.
+74. Post-renovation cleaning: do not use the robot for construction dust, cement chunks, or sharp debris.
+75. Snack spills: use spot vacuum-mop with high suction and medium water.
+76. Small toys and slippers: enable advanced obstacle avoidance and clear the floor before scheduled cleaning.
+77. Bathroom mats: set no-mop zones to prevent mold and trapped moisture.
+78. Sticky summer spills: use spot mopping quickly before stains dry.
+79. Study room with rugs: no-mop the rug and spot clean around the desk.
+80. Dusty neighborhoods: keep windows closed and use fewer but deeper cleaning cycles.
+
+## Software And Service
+81. Save and delete maps in map management after a complete mapping run.
+82. Share settings with family through device sharing or QR invite.
+83. Review and delete cleaning records in the app's cleaning-history page.
+84. Schedule mopping with room, time, suction, water output, and repeat frequency.
+85. Disable unnecessary push notifications such as low water or cleaning complete.
+86. Firmware updates usually preserve settings, but factory reset may be needed after abnormal behavior.
+87. Custom route cleaning is useful for high-priority paths and repeated spill zones.
+88. The robot can run scheduled tasks even when the phone is offline if Wi-Fi and tasks are already configured.
+89. Restore default cleaning parameters in app cleaning settings.
+90. Consumable life is usually available in the app's consumables page.
+91. Warranty usually covers non-consumable mop-module parts but not pads or seals.
+92. Out-of-warranty cost depends on pump, motor, sensor, or bracket replacement.
+93. Old models cannot add mop-lift through software if the hardware is missing.
+94. Mainboard replacement usually requires Wi-Fi setup, remapping, and parameter setup again.
+95. Accessory model numbers are listed in the manual, app store, or product label.
+96. Third-party mop pads are risky if size, thickness, or absorption differs.
+97. After one year of weaker mopping, replace mop pads, filters, and worn brushes before replacing motors.
+98. After moving, inspect the body, mop module, filters, sensors, and maps.
+99. Official deep maintenance may include cleaning, consumable replacement, and calibration.
+100. Consider replacing the robot after 3+ years if suction, mopping, mapping, and repairs are all poor and repair cost exceeds about one-third of a new model.

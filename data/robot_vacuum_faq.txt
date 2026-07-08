@@ -1,0 +1,115 @@
+# Robot Vacuum FAQ
+
+## Basic Setup
+1. First use: remove all packaging, fully charge the robot, clear the floor, run an initial mapping cycle, then set cleaning zones and no-go areas.
+2. Robot does not move after startup: check whether the bumper, power cord, caster wheel, or drive wheels are stuck, then restart the device.
+3. Robot cannot find the charging dock: clear obstacles within about 3 meters in front of the dock and 1 meter on both sides, wipe the dock sensors, and retry auto-return.
+4. App cannot connect to the robot: confirm the phone and robot are on the same 2.4 GHz Wi-Fi network, restart the router and robot, then add the device again.
+5. Map is incomplete or distorted: remove reflective objects and temporary obstacles, delete the old map, and run a new mapping cycle.
+6. Robot pauses frequently: check battery level, dustbin fullness, clogged filters, and blocked sensors.
+7. Scheduled cleaning: open the companion app, choose scheduled cleaning, select time, room, frequency, and cleaning mode, then save the task.
+8. Robot returns to dock immediately: check whether battery is below 20%; if battery is sufficient, restart and reset the cleaning mode.
+9. Manual remote control does not respond: reconnect the app, exit auto-cleaning mode, and switch to manual mode.
+10. Robot does not return after cleaning: confirm auto-return is enabled, the dock location exists on the map, and recharge sensors are clean.
+
+## Cleaning Performance
+11. Dust remains after cleaning: clean the main brush, side brush, dustbin, and filter, then increase suction and cleaning frequency.
+12. A room or area is skipped: check no-go zones, remap the home, or manually send the robot to the missed area.
+13. Corners are dirty: inspect side-brush wear, enable edge-cleaning mode, and manually clean tight corners if needed.
+14. Carpet dust is not removed well: enable carpet boost, increase suction, and remove loose objects that can make the robot slip.
+15. Water marks after mopping: lower water output, use a clean mop pad, switch to dry mop or low-speed mopping, and avoid repeated pauses on one spot.
+16. Stains remain after mopping: wash or replace hardened mop pads and pre-treat stubborn stains before running spot mopping.
+17. Hair is left behind: remove hair from the main brush, use an anti-tangle brush, increase suction, and enable pet or hair-cleaning mode if available.
+18. Large debris is not picked up: clear the brush chamber and suction inlet, switch to high suction, and manually remove oversized pieces.
+19. Cleaning varies by surface: use room-level settings for carpet, tile, hardwood, and rugs.
+20. Lint remains after mopping: replace the mop pad with a lint-free pad and rinse it before use.
+
+## Consumables And Maintenance
+21. Main brush replacement: replace every 3-6 months for normal homes, every 1-3 months for pet homes, or immediately if worn or deformed.
+22. Side brush replacement: replace when bristles bend or shorten enough to reduce corner cleaning.
+23. HEPA filter cleaning: rinse monthly if washable, dry fully in shade, and replace every 3-6 months.
+24. Dustbin cleaning: empty every 2-3 days for normal homes and daily for large or pet-heavy homes.
+25. Mop pad cleaning: wash after every mopping run and replace every 1-2 months depending on wear and odor.
+26. Battery care: avoid deep discharge, dock after each use, calibrate occasionally with a full charge/discharge cycle, and replace after severe capacity loss.
+27. Auto-empty bag replacement: replace every 1-2 months, or every 2-4 weeks in pet-heavy homes.
+28. Clogged filter symptoms: weak suction, louder noise, and overheating; brush off dust, rinse if washable, dry fully, then reinstall.
+29. Noisy caster wheel: remove hair and threads with tweezers and apply a tiny amount of approved lubricant.
+30. Drive wheels slipping: remove debris from wheel gaps and replace worn tires if needed.
+31. Water tank leaks: tighten the cap, inspect seals, clear outlet tubes, reduce water output, and replace a cracked tank.
+32. Cleaning solution: use only robot-safe cleaner; avoid alcohol, disinfectant, dish soap, bleach, or corrosive liquids.
+33. Odor in the brush chamber: remove the brush, clean the chamber, dry fully, and use a pet-safe deodorizer if needed.
+34. Long-term battery storage: charge to 50-70%, store cool and dry, and recharge every 1-2 months.
+35. Hair around the brush: remove brush end caps, cut hair with scissors, and clean the brush well.
+
+## Error Alarms
+36. Unknown error alarm: read the app error code first, then follow the corresponding maintenance step.
+37. Dustbin-not-installed alarm: reseat the dustbin, clean the dustbin sensor, and close the latch firmly.
+38. Filter-clogged alarm: remove and clean the filter and suction inlet, dry fully, reinstall, and restart.
+39. Battery error: power off, reseat the battery if removable, and contact service if the error remains.
+40. Sensor error: wipe front, side, and bottom sensors with a soft dry cloth, then restart.
+41. Bumper error: press the bumper gently to confirm rebound, remove trapped debris, and restart.
+42. Mopping-system error: check tank and mop-pad installation, clear debris from the mopping module, and restart.
+43. Beeping alarm: usually indicates low battery, consumable blockage, or sensor obstruction; check the app prompt and indicator light.
+44. Recharge-sensor error: wipe the robot's bottom recharge sensor and the dock infrared area.
+45. Roller-brush error: remove the brush, clear hair and debris, inspect for motor resistance, reinstall, and restart.
+46. Startup alarm and shutdown: stop use, disconnect power, and contact service to inspect the motor or circuit.
+47. Wi-Fi-module error: restart the robot and router, reset Wi-Fi, reconnect, and contact service if the error remains.
+48. Cliff-sensor error: wipe bottom sensors and test on a flat surface.
+49. Side-brush error: remove the side brush, clean the shaft, reinstall, and contact service if the motor does not turn.
+50. Auto-empty error: check dust bag installation, bag fullness, and the auto-empty channel.
+
+## Feature Settings
+51. Cliff detection fails: clean cliff sensors, remove reflective tape near stairs, and test on a flat surface.
+52. Obstacle avoidance gets worse: clean the front camera and sensors, enable advanced obstacle avoidance, and remap.
+53. Carpet boost does not work: confirm the model supports carpet detection and check whether the carpet is too thin to detect.
+54. Cannot select room cleaning: make sure mapping is complete, update the app and firmware, and rebuild the map if needed.
+55. Robot enters a no-go zone: adjust the boundary precisely, save the map, and disable any temporary no-go override.
+56. Auto-empty does not run: confirm the dust bag and station cover are installed and the robot is seated correctly.
+57. Voice control fails: verify voice-assistant binding, network connection, and command volume.
+58. Mopping mode will not start: install the water tank and mop pad, add water, and confirm mopping is enabled in the app.
+59. Edge-cleaning drifts away from wall: clean edge sensors, inspect side brush wear, and restart edge-cleaning mode.
+60. Spot cleaning is inaccurate: verify the map, recalibrate the spot location, and remove obstacles in that area.
+
+## Home Scenarios
+61. Threshold crossing fails: confirm the threshold is within the robot's climbing rating, clear debris, and guide it once if needed.
+62. Cannot view cleaning history: check network, app version, and whether cloud upload or cleaning records are enabled.
+63. Multi-floor maps will not switch: confirm multi-map support, build each floor map separately, and place recognizable landmarks.
+64. Quiet mode has weak suction: quiet mode reduces suction by design; switch to standard or high suction for deeper cleaning.
+65. Cleaning path is chaotic: remove moving obstacles, rebuild the map, and enable planned cleaning mode.
+66. Pet homes: use an anti-tangle brush, high-density filter, pet mode, higher suction, and daily dustbin/brush cleaning.
+67. Large homes: divide rooms into cleaning zones and use resume-after-charge for long cleaning runs.
+68. Hardwood floors: use low water output, dry mop mode, and wipe standing water quickly.
+69. Tile water marks: use a more absorbent mop, lower water output, slow mopping, and ventilate after cleaning.
+70. Homes with children: set no-go zones around toys and children's rooms, keep the dock out of reach, and inspect consumables often.
+71. Small apartments or rentals: use one-touch cleaning, mini-cleaning, and short daily schedules.
+72. Pet litter: the robot can handle light scattered litter with high suction, but large clumps should be removed manually.
+73. Greasy kitchen floors: vacuum first, use robot-safe cleaner, then run a focused mopping cycle.
+74. Bathrooms: avoid standing water, clear wet thresholds, and keep cliff detection enabled.
+75. Long-pile rugs: confirm model support, use high suction, and disable carpet boost if fibers tangle.
+76. Mirrors or glass distort mapping: set no-go zones near reflective surfaces or cover them during mapping.
+77. Low furniture: measure clearance and use manual cleaning or a slim robot if the robot cannot enter.
+78. Under beds and sofas: clear cords and clutter before using deep-clean mode.
+79. Winter use: avoid long low-temperature operation and allow the battery to warm to room temperature.
+80. Summer use: avoid direct sun, clean cooling vents, and refill water tanks as needed.
+
+## Service And Ownership
+81. Firmware update: keep the robot powered, connected, and docked during updates.
+82. Factory reset: use app settings or the hardware button combination, then rebuild maps and settings.
+83. Forgotten app password: use the app's password-reset flow and verification code.
+84. New phone setup: unbind from the old phone if needed, install the app, log in, and add the device again.
+85. Moving homes: delete old maps, clear the new environment, remap, and recreate zones.
+86. Out-of-warranty repair: use official or reputable repair service and avoid self-disassembly.
+87. Warranty lookup: check the manual, invoice, app device page, or brand support portal.
+88. Wi-Fi name or password changed: reset robot Wi-Fi and add the new network in the app.
+89. Buying parts: use official stores, app stores, or authorized shops to avoid poor-fit parts.
+90. Abnormal noise diagnosis: hissing often means filter blockage, clicking often means brush debris, buzzing may mean motor issues.
+91. DIY repair: avoid disassembly because sensors, wiring, and seals are easy to damage.
+92. Cosmetic damage: paint chips usually do not affect function, but cracks after impact should be inspected.
+93. App crashes: update the app, clear phone memory, restart, or reinstall.
+94. Multiple phones: use device sharing or the same account depending on app support.
+95. Cleaning area differs from spec: verify map completion, remove obstacles, and check for missed or repeated cleaning.
+96. Low-temperature startup failure: move the robot above 5 C, wait 30 minutes, and charge again.
+97. Heating while charging: ensure ventilation, pause charging if too hot, and contact support if heat persists.
+98. Extending service life: clean consumables and sensors regularly, replace worn parts, avoid drops, and store batteries properly.
+99. Cross-brand accessories: avoid them unless officially supported because dimensions and materials differ.
+100. Suction decline over time: clean the dustbin, filter, brush, and suction inlet, then replace worn brushes or ask service to inspect the motor.

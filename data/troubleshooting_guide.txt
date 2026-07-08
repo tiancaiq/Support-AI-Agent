@@ -1,0 +1,119 @@
+# Robot Vacuum And Vacuum-Mop Troubleshooting Guide
+
+## Power, Charging, And Battery
+1. No response on power-on: check adapter, cable, outlet, charging dock power, and battery seating; contact service if the mainboard may be faulty.
+2. Shuts down immediately: battery may be empty, overheated, or swollen; fully charge, cool the robot, and replace swollen batteries.
+3. Will not charge: wipe metal charging contacts, test the adapter, reseat the robot on the dock, and replace a failed battery if needed.
+4. Charging light flashes abnormally: inspect oxidation, dust, adapter faults, and battery health.
+5. Battery life drops sharply: avoid over-discharge, calibrate with a full cycle, and replace the battery if runtime is below about half of normal.
+6. Powers off after full charge: inspect battery swelling and power-management board faults.
+7. Severe heat or burning smell: power off immediately, clear air channels, and contact service for motor or battery inspection.
+8. Low-temperature startup failure: bring the robot to room temperature above 5 C, wait 30 minutes, then recharge.
+9. Hot while charging: improve ventilation, pause charging until cool, and contact service if overheating repeats.
+10. Sparks while charging: stop charging, clean contacts, replace damaged adapters, and inspect the dock.
+
+## Connectivity And App
+11. Cannot connect to Wi-Fi: use 2.4 GHz Wi-Fi, confirm password, restart router and robot, and reset robot Wi-Fi.
+12. App cannot control robot: check network, app version, robot online status, and device binding.
+13. Delayed notifications: enable app notifications, check network, and reconnect the robot.
+14. Cleaning history missing: confirm cloud sync, update the app, and restart the robot.
+15. App crashes: close background processes, update, clear phone memory, or reinstall.
+16. New phone cannot connect: unbind from old phone if required, log in, and add the device again.
+17. Password forgotten: use the app password-reset flow.
+18. Multiple phones: use device sharing or same-account login depending on brand rules.
+19. Wi-Fi module alarm: restart router, reset Wi-Fi, reconnect, and contact service if the module fails.
+20. Firmware update fails: keep robot charged and online, retry near router, and avoid power loss.
+
+## Navigation, Mapping, And Docking
+21. Map is incomplete: remove mirrors, reflective tile glare, and moving objects, then remap.
+22. Map is distorted after moving robot manually: recalibrate positioning or rebuild the map.
+23. Route is chaotic: enable planned cleaning, clear movable obstacles, and remap.
+24. Robot cannot find dock: clear the dock area, wipe recharge sensors, and place dock against a wall.
+25. Auto-return fails after cleaning: verify dock location on the map and sensor cleanliness.
+26. Repeatedly pauses during cleaning: empty dustbin, clean filter, charge battery, and wipe sensors.
+27. Missed rooms: check closed doors, no-go zones, and incomplete map boundaries.
+28. Enters no-go zones: redraw boundaries and save the map again.
+29. Cannot select room cleaning: rebuild the map and update app/firmware.
+30. Multi-floor map switching fails: build separate maps for each floor and place robot correctly before starting.
+31. Threshold crossing fails: check height rating, remove debris, and guide the robot once if needed.
+32. Stuck under furniture: measure clearance and set no-go zones under low furniture.
+33. Mirror or glass causes mapping errors: create no-go zones or cover reflective surfaces during mapping.
+34. Newly added furniture is hit: recalibrate obstacle sensors and refresh the map.
+35. Robot loses map after restart: check storage or firmware issues and remap.
+
+## Sensors And Obstacle Avoidance
+36. Frequent furniture collisions: clean front sensors/camera and inspect bumper rebound.
+37. Bumper sensor alarm: remove trapped debris and press bumper to test rebound.
+38. Cliff detection failure: wipe bottom sensors and test on a flat surface away from stairs.
+39. Sensor abnormal alarm: clean all front, side, and bottom sensors with a dry cloth.
+40. Edge-cleaning drifts from wall: clean edge sensors and inspect side-brush wear.
+41. Obstacle avoidance gets worse: clean sensors, enable advanced obstacle mode, and remap.
+42. Robot falls-risk near stairs: set a virtual wall or physical barrier even if cliff sensors exist.
+43. Light-colored or reflective furniture misread: add no-go zones or cover reflective parts.
+44. Sensor blocked by dust or water: dry and wipe before restarting.
+45. Camera-based models fail in strong light: reduce glare or remap under normal lighting.
+
+## Suction, Brushes, And Dustbin
+46. Suction drops: clean dustbin, filter, suction inlet, air duct, main brush, and side brush.
+47. Main brush does not rotate: remove hair and debris, reinstall, and inspect motor resistance.
+48. Side brush does not rotate: clean the shaft, check installation, and replace failed motor parts.
+49. Robot pushes debris instead of vacuuming: clear suction inlet and increase suction.
+50. Large debris gets stuck: manually remove oversized debris and clean the brush chamber.
+51. Hair is left behind: clean brush ends, use anti-tangle brush, and increase suction.
+52. Filter-clogged alarm persists: replace damaged filter and wipe the filter sensor.
+53. Dustbin-not-installed alarm: reseat dustbin and clean the latch/sensor.
+54. Dustbin leaks dust: clean gasket and latch, then replace worn seals.
+55. Dustbin odor: empty frequently, wash if allowed, dry fully, and replace odor-trapped filters.
+56. Main brush clicking: remove hard debris, check bearings, and replace worn rubber strips.
+57. High noise: remove brush/side-brush tangles, lubricate wheel modules if allowed, and inspect motor.
+58. Wheel slipping: clean hair and dust from drive wheels and replace worn tread.
+59. Caster wheel stuck: remove hair, clean axle, and apply a small amount of approved lubricant.
+60. Edge cleaning poor: replace worn side brushes and enable edge-cleaning mode.
+
+## Mopping And Water System
+61. Water tank leaks: tighten cap, check seals, clear outlet tubes, and replace cracked tank.
+62. No water output: refill tank, raise water level setting, and clear outlet with a toothpick.
+63. Too much water: lower water output and inspect valve or gasket damage.
+64. Electric mop does not rotate: remove hair, reseat mop bracket, and inspect motor.
+65. Auto-wash mop fails: check clean water, dirty-water tank, washing brush, pump, and station sensors.
+66. Mop pad falls off: clean or replace Velcro/clips and install the pad flat.
+67. Mop-lift fails: clean lifting module and verify feature is enabled.
+68. Dirty-water filter clogged: rinse, dry, reinstall, and clean regularly.
+69. Water marks remain: clean or replace mop pad, reduce water, and slow the robot.
+70. Sticky stains remain: manually pre-treat heavy stains and run spot mopping.
+71. Cleaner residue: reduce cleaning solution concentration and run clean-water mopping.
+72. Mop smell: wash with mild detergent, dry fully, and replace if odor persists.
+73. Black scratches while mopping: check for grit in mop pad or worn bracket.
+74. Standing water near bathroom/laundry: set no-mop zones and dry the floor before use.
+75. Mopping module stays active while charging: restart and reset settings if needed.
+
+## Auto-Empty And Dock Station
+76. Auto-empty fails: check dust bag, station cover, dust channel, and robot docking alignment.
+77. Auto-empty suction weak: replace full bag and clean station air path.
+78. Auto-empty alarm after bag change: reseat the bag and check bag sensor.
+79. Dock indicator off: check outlet, adapter, and dock power input.
+80. Dock moves when robot returns: place dock on a flat wall-backed surface with anti-slip base.
+81. Dock smells: replace bag, clean dust path, and keep station dry.
+82. Mop-wash station does not drain: clean drain filter and dirty-water path.
+83. Clean-water station does not feed water: check tank seating, inlet, and pump.
+84. Dock infrared area dirty: wipe with dry cloth.
+85. Station maintenance: clean weekly in pet or high-dust homes.
+
+## Environment And Scenario Issues
+86. Long-pile carpet blocks movement: use high suction only if supported, or set no-go zones.
+87. Hardwood warps after mopping: dry immediately and use minimum water later.
+88. Tile grout remains dirty: run multiple passes or manually deep clean grout.
+89. Pet litter clogs brush: use high suction for light litter and manually remove large clumps.
+90. Pet hair tangles: clean brush after every run and use pet-specific brush/filter.
+91. Kitchen oil is smeared: vacuum first, use robot-safe cleaner, and pre-treat heavy oil.
+92. Construction dust after renovation: do not use robot until large debris and fine cement dust are manually removed.
+93. Outdoor balcony failure: use only enclosed dry balcony areas.
+94. Toys and cords cause jams: clear floors before scheduled cleaning and use no-go zones.
+95. Low furniture blocks access: set no-go zones or clean manually.
+
+## Service Decisions
+96. Do not self-repair internal electronics unless trained; sensors, seals, wiring, and batteries are easy to damage.
+97. Contact official service for battery swelling, burning smell, repeated charging faults, motor overheating, or internal water damage.
+98. Use original accessories when fit affects seals, brush rotation, mop pressure, or charging alignment.
+99. After moving homes, inspect for physical damage, clean consumables, remap, and test docking.
+100. Consider replacement if the robot is older than 3 years, has repeated motor/map/mop failures, and repair cost is high.
