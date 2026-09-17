@@ -32,7 +32,7 @@ An AI customer-support agent for robot vacuum and vacuum-mop products. The app c
 - Streamlit
 - LangChain and LangGraph middleware
 - ChromaDB
-- DashScope Qwen chat model
+- DeepSeek chat model
 - DashScope text embeddings
 
 ## Architecture
