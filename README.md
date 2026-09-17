@@ -1,6 +1,6 @@
 # SmartHome Support AI Agent
 
-An AI customer-support agent for robot vacuum and vacuum-mop products. The app combines a Streamlit chat UI, LangChain tool-calling, Chroma-backed RAG, and personalized usage-report generation.
+A ReAct (Reasoning + Acting) agent built on the LangChain framework, integrating RAG (Retrieval-Augmented Generation), multi-tool invocation, and dynamic prompt switching. The system can automatically determine the task type (knowledge Q&A / report generation) based on user intent, invoke the appropriate tools and knowledge bases to perform reasoning, and display the agent’s thought and execution processes in real time via a Streamlit interface.
 
 
 ## Results Showcase
