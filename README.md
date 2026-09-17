@@ -7,7 +7,14 @@ An AI customer-support agent for robot vacuum and vacuum-mop products. The app c
 
 <img width="800" height="400" alt="General Q&A — RAG Retrieval of Knowledge Base Responses" src="https://github.com/user-attachments/assets/b436f711-de41-45a6-9929-17521171bc58" />
 
-  General Q&A — RAG Retrieval of Knowledge Base Responses
+  #1.General Q&A — RAG Retrieval of Knowledge Base Responses
+
+
+
+
+<img width="800" height="400" alt="ChatGPT Image Sep 18, 2026, 06_57_27 AM" src="https://github.com/user-attachments/assets/3a47f4ef-d31a-47fd-9ab2-8549797ac830" />
+
+  #2.Agent Tool Calls — Real-Time Visualization of Inference and Tool Execution Chains
 
 ## Features
 
