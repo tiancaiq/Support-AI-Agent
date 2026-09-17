@@ -5,8 +5,7 @@ An AI customer-support agent for robot vacuum and vacuum-mop products. The app c
 
 ## Results Showcase
 
-<img width="500" height="300" alt="General Q&A — RAG Retrieval of Knowledge Base Responses" src="https://github.com/user-attachments/assets/b436f711-de41-45a6-9929-17521171bc58" />
-                        
+<img width="800" height="400" alt="General Q&A — RAG Retrieval of Knowledge Base Responses" src="https://github.com/user-attachments/assets/b436f711-de41-45a6-9929-17521171bc58" />
                         General Q&A — RAG Retrieval of Knowledge Base Responses
 
 ## Features
