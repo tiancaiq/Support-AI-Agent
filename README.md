@@ -2,6 +2,12 @@
 
 An AI customer-support agent for robot vacuum and vacuum-mop products. The app combines a Streamlit chat UI, LangChain tool-calling, Chroma-backed RAG, and personalized usage-report generation.
 
+
+## Results Showcase
+
+<img width="1493" height="1054" alt="General Q&A — RAG Retrieval of Knowledge Base Responses" src="https://github.com/user-attachments/assets/b436f711-de41-45a6-9929-17521171bc58" />
+
+
 ## Features
 
 - Robot vacuum support chat for troubleshooting, maintenance, buying guidance, and usage questions.
